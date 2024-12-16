@@ -74,7 +74,7 @@ Performance: Real-time response generation without significant latency.
 
 
 
-Reward: The successful developer/team will be awarded INR5000 along with oportunity to work with Opneblendai with a stipend of 20000INR per month and an oportunity to a full-time remote role with 10LPA CTC based on performance.
+Reward: The successful developer/team will be awarded 5000INR along with oportunity to work with Opneblendai with a stipend of 20000INR per month and an oportunity to a full-time remote role with 10LPA CTC based on performance.
 
 
 
